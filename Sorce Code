@@ -1,3 +1,4 @@
+Create database test;
 use test
 CREATE TABLE s
  ( Id int NOT NULL,
